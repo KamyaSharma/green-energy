@@ -37,8 +37,7 @@
 nav {
     text-align: center;
     padding-left: 0;
-    margin-bottom: 30px;
-    float: left;    
+    margin-bottom: 30px;    
     /*float: left;*/
 }
 
@@ -70,7 +69,7 @@ nav ul li a {
 .buttons {
     text-align: center;
     margin: 0 auto;
-    clear: both;
+    /*clear: both;*/
     float: left;
 }
 
